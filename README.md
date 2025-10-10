@@ -8,6 +8,7 @@
 ### 🔭 I’m currently working on
 - VHDL logic circuits (AND, OR, Inverter, MUX)
 - IoT mini projects using ESP32 / Arduino
+- VLSI Design
 - Learning Git & GitHub for project collaboration
 
 ### 🌱 I’m currently learning
@@ -25,7 +26,7 @@
 - Analog & Digital electronics
 
 ### 📫 How to reach me
-- **Email:** amanmishra2003ec@gmail.com  
+- **Email:** amanmishaar@gmail.com
 - **LinkedIn:** www.linkedin.com/in/aman-mishra-17a24b-mishaar
 
 ### ⚡ Fun fact
