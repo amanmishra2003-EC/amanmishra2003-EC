@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 I’m currently working on
-- VHDL logic circuits (AND, OR, Inverter, MUX)
+- VHDL logic circuits 
 - IoT mini projects using ESP32 / Arduino
 - VLSI Design
 - Learning Git & GitHub for project collaboration
