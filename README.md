@@ -13,7 +13,8 @@
 
 ### 🌱 I’m currently learning
 - Verilog & VHDL
-- Embedded C programming
+- C programming
+- Embedded system
 - PCB design using LTspice
 
 ### 👯 I’m looking to collaborate on
