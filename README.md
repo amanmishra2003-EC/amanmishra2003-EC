@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Aman Mishra  
 
-<!--
-**amanmishra2003-EC/amanmishra2003-EC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BTech student in **Electronics & Communication Engineering**.  
+💡 Passionate about **Embedded Systems, IoT, and VHDL-based Digital Design**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- VHDL logic circuits (AND, OR, Inverter, MUX)
+- IoT mini projects using ESP32 / Arduino
+- Learning Git & GitHub for project collaboration
+
+### 🌱 I’m currently learning
+- Verilog & VHDL
+- Embedded C programming
+- PCB design using LTspice
+
+### 👯 I’m looking to collaborate on
+- Open-source electronics and embedded system projects
+
+### 💬 Ask me about
+- VHDL / Verilog basics  
+- Arduino & IoT setup  
+- ModelSim
+- Analog & Digital electronics
+
+### 📫 How to reach me
+- **Email:** amanmishra2003ec@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/aman-mishra-17a24b-mishaar
+
+### ⚡ Fun fact
+I enjoy debugging circuits more than coding sometimes 😄
+
+---
+
+⭐ **Check out my repositories** for electronics and VHDL-based projects!
