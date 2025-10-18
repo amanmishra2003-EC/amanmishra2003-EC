@@ -7,12 +7,12 @@
 
 ### 🔭 I’m currently working on
 - VHDL logic circuits 
-- IoT mini projects using ESP32 / Arduino
+- IoT mini projects using ESP32 & Arduino
 - VLSI Design
 - Learning Git & GitHub for project collaboration
 
 ### 🌱 I’m currently learning
-- Verilog & VHDL
+- VHDL
 - C programming
 - Embedded system
 - PCB design using LTspice
@@ -21,7 +21,7 @@
 - Open-source electronics and embedded system projects
 
 ### 💬 Ask me about
-- VHDL / Verilog basics  
+- VHDL basics  
 - Arduino & IoT setup  
 - ModelSim
 - Analog & Digital electronics
