@@ -15,7 +15,7 @@
 - VHDL
 - C programming
 - Embedded system
-- PCB design using LTspice
+- PCB design
 
 ### 👯 I’m looking to collaborate on
 - Open-source electronics and embedded system projects
